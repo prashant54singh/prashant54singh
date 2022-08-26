@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **prashansingh890@gmail.com**
 
-- ⚡ Fun fact **QWERTY was designed to slow you down.**
+- ⚡ Fun Fact: **QWERTY was designed to slow you down.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
