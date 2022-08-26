@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **React Native and 日本語(Japanese).**
 
-- 🤝 I’m looking to collaborate on **collaborate on Open Source Projects.**
+- 🤝 I’m looking to collaborate on **Open Source Projects.**
 
 - 💬 Ask me how to **Web, Cloud, Nihongo :)**
 
