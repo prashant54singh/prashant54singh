@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on **my Blockchain project**
 
-- 🌱 I’m currently learning **ReactJS and 日本語(Japanese).**
+- 🌱 I’m currently learning **GO Lang and 日本語(Japanese).**
 
 - 🤝 I’m looking to collaborate on **Open Source Projects.**
 
